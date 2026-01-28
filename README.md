@@ -8,7 +8,9 @@
 
 An interactive web application that visualizes Vince Gilligan's creative universe (Pluribus, Breaking Bad, Better Call Saul) as a dynamic knowledge graph. Built with D3.js force-directed layout, the interface features AI-powered chat assistance, entity exploration, and profile/dossier views for creators and actors.
 
-**Live Demo:** [http://localhost:8001](http://localhost:8001)
+**Live Demo:** [http://unitedtribes-visualizations-1758769416.s3-website-us-east-1.amazonaws.com/poc-v2/index.html](http://unitedtribes-visualizations-1758769416.s3-website-us-east-1.amazonaws.com/poc-v2/index.html)
+
+**GitHub:** [https://github.com/United-Tribes/unitedtribes-poc-v2](https://github.com/United-Tribes/unitedtribes-poc-v2)
 
 ![The Gilligan Universe](public/images/screenshot.png)
 
